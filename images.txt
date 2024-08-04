@@ -1,15 +1,3 @@
-nginx
-alpine
-busybox
-httpd
-mongo
-redis
-ubuntu
-mysql
-centos
-docker
-rabbitmq
-elasticsearch
 python
 openjdk
 ruby
