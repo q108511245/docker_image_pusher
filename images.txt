@@ -1,2 +1,23 @@
 nginx
+alpine
+busybox
+httpd
+mongo
+redis
+ubuntu
+mysql
+centos
+docker
+rabbitmq
+elasticsearch
+python
+openjdk
+ruby
+java
+tomcat
+maven
+jenkins
+centos/mysql-57-centos7
+williamyeh/java8
+amir20/dozzle
 
