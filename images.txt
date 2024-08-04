@@ -20,4 +20,3 @@ jenkins
 centos/mysql-57-centos7
 williamyeh/java8
 amir20/dozzle
-
